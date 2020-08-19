@@ -2,7 +2,7 @@ import { reactive, readonly } from 'vue'
 
 export const store = reactive({
   fx: {
-    grayscale: 80,
+    grayscale: 0,
     blur: 0,
     saturate: 1,
     brightness: 100,
