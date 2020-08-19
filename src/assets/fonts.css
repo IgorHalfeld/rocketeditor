@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "NotoBlack";
+  src: local("NotoSansTC-Black-Alphabetic"),
+    url("NotoSansTC-Black-Alphabetic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thin";
+  src: local(""), local("NotoSansTC-Thin-Alphabetic"),
+    url("NotoSansTC-Thin-Alphabetic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Regular";
+  src: local(""), local("NotoSansTC-Regular-Alphabetic"),
+    url("NotoSansTC-Regular-Alphabetic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Medium";
+  src: local(""), local("NotoSansTC-Medium-Alphabetic"),
+    url("NotoSansTC-Medium-Alphabetic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bold";
+  src: local(""), local("NotoSansTC-Bold-Alphabetic"),
+    url("NotoSansTC-Bold-Alphabetic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Light";
+  src: local(""), local("NotoSansTC-Light-Alphabetic"),
+    url("NotoSansTC-Light-Alphabetic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}

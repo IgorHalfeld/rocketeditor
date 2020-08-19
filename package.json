@@ -1,0 +1,24 @@
+{
+  "name": "rocketeditor",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "dom-to-image": "^2.6.0",
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "eslint": "^7.7.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "tailwindcss": "^1.7.1",
+    "vite": "^1.0.0-rc.1"
+  }
+}
