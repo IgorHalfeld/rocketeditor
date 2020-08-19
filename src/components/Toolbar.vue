@@ -32,7 +32,7 @@
     </div>
 
     <div class="p-5" @click="download">
-      <button class="w-full py-2 text-2xl font-medium text-white uppercase rounded-sm bg-brand-main">
+      <button class="w-full py-4 text-2xl font-medium text-white uppercase rounded-sm bg-brand-main">
         baixar imagem
       </button>
     </div>
